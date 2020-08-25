@@ -1,0 +1,1 @@
+You can read the tutorial https://www.roytuts.com/react-rest-delete-example/
