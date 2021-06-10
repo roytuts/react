@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/upload-file-to-server-using-react/
+You can read tutorial https://roytuts.com/upload-file-to-server-using-react/
