@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.App table {margin: auto; border: 1px solid;}
+.App table tr:nth-child(even) {background: #CCC}
+.App table tr:nth-child(odd) {background: #FFF}
