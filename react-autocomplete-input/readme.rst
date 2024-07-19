@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/autocomplete-input-using-react/
+Please follow the tutorial https://roytuts.com/autocomplete-input-using-react/
