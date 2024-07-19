@@ -1,1 +1,1 @@
-You can download the tutorial at https://www.roytuts.com/download-file-from-server-using-react/
+Please follow the tutorial at https://roytuts.com/download-file-from-server-using-react/
