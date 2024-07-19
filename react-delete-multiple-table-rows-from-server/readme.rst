@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/delete-multiple-table-rows-from-server-using-react/
+Please follow the tutorial https://roytuts.com/delete-multiple-table-rows-from-server-using-react/
